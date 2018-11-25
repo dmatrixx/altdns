@@ -194,6 +194,7 @@ stage
 stage1
 staging
 static
+stg
 support
 swagger
 system
