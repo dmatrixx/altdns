@@ -78,6 +78,7 @@ data
 dec
 demo
 dev
+kibana
 dev1
 developer
 devops
